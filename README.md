@@ -85,7 +85,7 @@ Removes the student record based on the provided **ID**.
 1. Clone the repository
 
 ```
-git clone https://github.com/yourusername/student-management-system.git
+git clone https://github.com/Mano6383/student-management-system.git
 ```
 
 2. Open the project in **IntelliJ IDEA / Eclipse / VS Code**
